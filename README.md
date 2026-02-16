@@ -6,12 +6,12 @@ A Data Analytics & Visualization Project using Power BI
 2️⃣ Short Description / Purpose
 
 This project analyzes the mental health conditions of remote workers using real-world survey data.
-The objective is to understand how remote work impacts stress levels, work-life balance, productivity, and overall mental well-being.
+The objective is to understand how remote work impacts stress levels, work-life balance, productivity and overall mental well-being.
 
 Through interactive dashboards, this project identifies key patterns and trends affecting remote employees.
 The analysis helps organizations make data-driven decisions to improve employee wellness programs.
 
-The dashboard provides meaningful KPIs, visual comparisons, and category-based insights.
+The dashboard provides meaningful KPIs, visual comparisons and category-based insights.
 
 3️⃣ Tech Apps Used
 
